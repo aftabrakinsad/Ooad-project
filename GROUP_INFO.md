@@ -5,11 +5,11 @@
   </tr>
 
   <tr>
-    <th colspan="2"><h3>CSC1205	OBJECT ORIENTED PROGRAMMING 1</h3></h>
+    <th colspan="2"><h3>CSC2209	OBJECT ORIENTED ANALYSIS AND DESIGN</h3></h>
   </tr>
   
   <tr>
-    <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/rashidul">RASHIDUL HASAN NABIL</a></th>
+    <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/m.hasan">DR. MOHAMMAD MAHMUDUL HASAN</a></th>
   </tr>
   
   <tr>
